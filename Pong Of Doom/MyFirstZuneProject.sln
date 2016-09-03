@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pong Of Doom", "MyFirstZuneProject\Pong Of Doom.csproj", "{DE553A97-047E-4772-A919-F4B70BFB7FD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Zune = Debug|Zune
+		Release|Zune = Release|Zune
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE553A97-047E-4772-A919-F4B70BFB7FD9}.Debug|Zune.ActiveCfg = Debug|Zune
+		{DE553A97-047E-4772-A919-F4B70BFB7FD9}.Debug|Zune.Build.0 = Debug|Zune
+		{DE553A97-047E-4772-A919-F4B70BFB7FD9}.Debug|Zune.Deploy.0 = Debug|Zune
+		{DE553A97-047E-4772-A919-F4B70BFB7FD9}.Release|Zune.ActiveCfg = Release|Zune
+		{DE553A97-047E-4772-A919-F4B70BFB7FD9}.Release|Zune.Build.0 = Release|Zune
+		{DE553A97-047E-4772-A919-F4B70BFB7FD9}.Release|Zune.Deploy.0 = Release|Zune
+		{AF7DC55E-722D-448C-9A1A-347E2E132A4F}.Debug|Zune.ActiveCfg = Debug|Zune
+		{AF7DC55E-722D-448C-9A1A-347E2E132A4F}.Release|Zune.ActiveCfg = Release|Zune
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

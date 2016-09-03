@@ -1,0 +1,78 @@
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\Content\cheatz.xnb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\Content\hax.xnb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\Content\new.xnb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\Content\new2.xnb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy.xnb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy2.xnb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\Content\zp.xnb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\Content\new3.xnb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy8.xnb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy9.xnb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy10.xnb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy11.xnb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\Content\Credits.xnb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\Content\Screen.xnb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\Content\Screen2.xnb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\Content\creditz.xnb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\Content\lost.xnb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\Content\Win.xnb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\Content\Settings.xnb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\Content\Menu.xnb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\MyFirstZuneProject.exe
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\bin\Zune\Debug\MyFirstZuneProject.pdb
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\obj\Zune\Debug\MyFirstZuneProject.exe
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\obj\Zune\Debug\MyFirstZuneProject.pdb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\cheatz.xnb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\hax.xnb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\new.xnb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\new2.xnb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy.xnb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy2.xnb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\zp.xnb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\new3.xnb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy8.xnb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy9.xnb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy10.xnb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy11.xnb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Credits.xnb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Screen.xnb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Screen2.xnb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\creditz.xnb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\lost.xnb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Win.xnb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Settings.xnb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Menu.xnb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\MyFirstZuneProject.exe
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\MyFirstZuneProject.pdb
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\obj\Zune\Debug\MyFirstZuneProject.exe
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\obj\Zune\Debug\MyFirstZuneProject.pdb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Screen2.xnb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy8.xnb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Menu.xnb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\cheatz.xnb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\lost.xnb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy10.xnb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy.xnb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\new.xnb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy9.xnb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\new2.xnb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Screen.xnb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\zp.xnb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Settings.xnb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy2.xnb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy11.xnb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\hax.xnb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Credits.xnb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\creditz.xnb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\new3.xnb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Win.xnb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\MyFirstZuneProject.exe
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\MyFirstZuneProject.pdb
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\obj\Zune\Debug\MyFirstZuneProject.exe
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\obj\Zune\Debug\MyFirstZuneProject.pdb

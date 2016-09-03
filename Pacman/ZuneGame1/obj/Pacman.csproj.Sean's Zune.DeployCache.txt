@@ -1,0 +1,41 @@
+0265fb83c5be499f92824a681e8ae77a
+2
+Sean's Zune
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\
+128553765820000000
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\GameThumbnail.png
+2008-05-10T07:38:47.2812500Z
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\FocusedGames.Thrust.dll
+2008-05-09T12:35:54.0000000Z
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\FocusedGames.Thrust.GUI.dll
+2008-05-09T12:35:54.0000000Z
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\ZuneGame1.exe
+2008-05-24T00:00:55.8750000Z
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\door.xnb
+2008-05-16T01:52:16.1718750Z
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\eye.xnb
+2008-05-16T01:52:16.1250000Z
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\font.xnb
+2008-05-16T01:56:26.6562500Z
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\gameover.xnb
+2008-05-16T01:52:16.2812500Z
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\ghost.xnb
+2008-05-16T01:52:16.0781250Z
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\level.xnb
+2008-05-16T01:52:15.9375000Z
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacman2.xnb
+2008-05-22T04:48:55.5937500Z
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanDown.xnb
+2008-05-22T04:48:55.4062500Z
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanLeft.xnb
+2008-05-22T04:48:55.4687500Z
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanRight.xnb
+2008-05-22T04:48:55.5312500Z
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanUp.xnb
+2008-05-22T04:48:55.3281250Z
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\point.xnb
+2008-05-16T01:52:16.3281250Z
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\pupil.xnb
+2008-05-16T01:52:16.2187500Z
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\rect.xnb
+2008-05-16T01:52:15.9843750Z

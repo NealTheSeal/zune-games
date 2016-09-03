@@ -1,0 +1,150 @@
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\bin\Zune\Debug\Content\level.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\bin\Zune\Debug\Content\rect.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\bin\Zune\Debug\Content\ghost.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\bin\Zune\Debug\Content\font.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\bin\Zune\Debug\Content\pacmanUp.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\bin\Zune\Debug\Content\pacmanDown.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\bin\Zune\Debug\Content\pacmanLeft.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\bin\Zune\Debug\Content\pacmanRight.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\bin\Zune\Debug\Content\pacman2.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\bin\Zune\Debug\Content\eye.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\bin\Zune\Debug\Content\door.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\bin\Zune\Debug\Content\pupil.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\bin\Zune\Debug\Content\point.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\bin\Zune\Debug\Content\gameover.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\bin\Zune\Debug\ZuneGame1.exe
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\bin\Zune\Debug\ZuneGame1.pdb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\bin\Zune\Debug\FocusedGames.Thrust.dll
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\bin\Zune\Debug\FocusedGames.Thrust.GUI.dll
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\obj\Zune\Debug\ZuneGame1.exe
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\obj\Zune\Debug\ZuneGame1.pdb
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanUp.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanDown.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanLeft.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanRight.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\level.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\rect.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacman2.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\ghost.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\eye.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\door.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\pupil.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\gameover.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\point.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\font.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\ZuneGame1.exe
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\ZuneGame1.pdb
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\FocusedGames.Thrust.dll
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\FocusedGames.Thrust.GUI.dll
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\obj\Zune\Debug\ZuneGame1.exe
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\obj\Zune\Debug\ZuneGame1.pdb
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\obj\Zune\Debug\ZuneGame1.exe
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\obj\Zune\Debug\ZuneGame1.pdb
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanUp.xnb
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanDown.xnb
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanLeft.xnb
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanRight.xnb
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\level.xnb
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\rect.xnb
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacman2.xnb
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\ghost.xnb
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\eye.xnb
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\door.xnb
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\pupil.xnb
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\gameover.xnb
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\point.xnb
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\Content\font.xnb
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\ZuneGame1.exe
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\bin\Zune\Debug\ZuneGame1.pdb
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\obj\Zune\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanUp.xnb
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanDown.xnb
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanLeft.xnb
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanRight.xnb
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\bin\Zune\Debug\Content\level.xnb
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\bin\Zune\Debug\Content\rect.xnb
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacman2.xnb
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\bin\Zune\Debug\Content\ghost.xnb
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\bin\Zune\Debug\Content\eye.xnb
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\bin\Zune\Debug\Content\door.xnb
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\bin\Zune\Debug\Content\pupil.xnb
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\bin\Zune\Debug\Content\gameover.xnb
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\bin\Zune\Debug\Content\point.xnb
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\bin\Zune\Debug\Content\font.xnb
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\bin\Zune\Debug\ZuneGame1.exe
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\bin\Zune\Debug\ZuneGame1.pdb
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\obj\Zune\Debug\ZuneGame1.exe
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\obj\Zune\Debug\ZuneGame1.pdb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\obj\Zune\Debug\ZuneGame1.exe
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\obj\Zune\Debug\ZuneGame1.pdb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanUp.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanDown.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanLeft.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanRight.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\bin\Zune\Debug\Content\level.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\bin\Zune\Debug\Content\rect.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacman2.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\bin\Zune\Debug\Content\ghost.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\bin\Zune\Debug\Content\eye.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\bin\Zune\Debug\Content\door.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\bin\Zune\Debug\Content\pupil.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\bin\Zune\Debug\Content\gameover.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\bin\Zune\Debug\Content\point.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\bin\Zune\Debug\Content\font.xnb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\bin\Zune\Debug\ZuneGame1.exe
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\bin\Zune\Debug\ZuneGame1.pdb
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\bin\Zune\Debug\FocusedGames.Thrust.dll
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\bin\Zune\Debug\FocusedGames.Thrust.GUI.dll
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanUp.xnb
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanDown.xnb
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanLeft.xnb
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanRight.xnb
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\bin\Zune\Debug\Content\level.xnb
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\bin\Zune\Debug\Content\rect.xnb
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacman2.xnb
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\bin\Zune\Debug\Content\ghost.xnb
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\bin\Zune\Debug\Content\eye.xnb
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\bin\Zune\Debug\Content\door.xnb
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\bin\Zune\Debug\Content\pupil.xnb
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\bin\Zune\Debug\Content\gameover.xnb
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\bin\Zune\Debug\Content\point.xnb
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\bin\Zune\Debug\Content\font.xnb
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\bin\Zune\Debug\ZuneGame1.exe
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\bin\Zune\Debug\ZuneGame1.pdb
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\bin\Zune\Debug\FocusedGames.Thrust.dll
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\bin\Zune\Debug\FocusedGames.Thrust.GUI.dll
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\obj\Zune\Debug\ResolveAssemblyReference.cache
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\obj\Zune\Debug\ZuneGame1.exe
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\obj\Zune\Debug\ZuneGame1.pdb
+C:\_Github\Zune\Pacman\ZuneGame1\obj\Zune\Debug\ZuneGame1.exe
+C:\_Github\Zune\Pacman\ZuneGame1\obj\Zune\Debug\ZuneGame1.pdb
+C:\_Github\Zune\Pacman\ZuneGame1\bin\Zune\Debug\Content\ghost.xnb
+C:\_Github\Zune\Pacman\ZuneGame1\bin\Zune\Debug\Content\font.xnb
+C:\_Github\Zune\Pacman\ZuneGame1\bin\Zune\Debug\Content\gameover.xnb
+C:\_Github\Zune\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanLeft.xnb
+C:\_Github\Zune\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacman2.xnb
+C:\_Github\Zune\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanRight.xnb
+C:\_Github\Zune\Pacman\ZuneGame1\bin\Zune\Debug\Content\rect.xnb
+C:\_Github\Zune\Pacman\ZuneGame1\bin\Zune\Debug\Content\door.xnb
+C:\_Github\Zune\Pacman\ZuneGame1\bin\Zune\Debug\Content\level.xnb
+C:\_Github\Zune\Pacman\ZuneGame1\bin\Zune\Debug\Content\pupil.xnb
+C:\_Github\Zune\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanDown.xnb
+C:\_Github\Zune\Pacman\ZuneGame1\bin\Zune\Debug\Content\pacmanUp.xnb
+C:\_Github\Zune\Pacman\ZuneGame1\bin\Zune\Debug\Content\eye.xnb
+C:\_Github\Zune\Pacman\ZuneGame1\bin\Zune\Debug\Content\point.xnb
+C:\_Github\Zune\Pacman\ZuneGame1\bin\Zune\Debug\ZuneGame1.exe
+C:\_Github\Zune\Pacman\ZuneGame1\bin\Zune\Debug\ZuneGame1.pdb
+C:\_Github\Zune\Pacman\ZuneGame1\bin\Zune\Debug\FocusedGames.Thrust.dll
+C:\_Github\Zune\Pacman\ZuneGame1\bin\Zune\Debug\FocusedGames.Thrust.GUI.dll
+C:\_Github\Zune\Pacman\ZuneGame1\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\_Github\Zune\Pacman\ZuneGame1\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

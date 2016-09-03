@@ -1,0 +1,7 @@
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\ZuneGame1\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Luke\Desktop\Pacman\Pacman\ZuneGame1\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Administrator\Desktop\Pacman\Pacman\ZuneGame1\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Luke\Desktop\Zune development\Pacman(2)\Pacman\ZuneGame1\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Luke\Desktop\Pacman\ZuneGame1\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+G:\Documents\Zune Games & Apps\Pacman\ZuneGame1\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\_Github\Zune\Pacman\ZuneGame1\Content\obj\Zune\Debug\ResolveAssemblyReference.cache

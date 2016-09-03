@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>cheatz.png</Source>
+      <Name>cheatz</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\cheatz.xnb</Output>
+      <Time>2008-05-07T19:28:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>hax.png</Source>
+      <Name>hax</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\hax.xnb</Output>
+      <Time>2008-05-07T19:28:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>new.png</Source>
+      <Name>new</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\new.xnb</Output>
+      <Time>2008-05-07T19:36:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>new2.png</Source>
+      <Name>new2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\new2.xnb</Output>
+      <Time>2008-05-09T15:57:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Thingy.bmp</Source>
+      <Name>Thingy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy.xnb</Output>
+      <Time>2008-05-07T19:35:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Thingy2.bmp</Source>
+      <Name>Thingy2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy2.xnb</Output>
+      <Time>2008-05-07T20:03:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>zp.jpg</Source>
+      <Name>zp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\zp.xnb</Output>
+      <Time>2008-05-09T15:09:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>new3.png</Source>
+      <Name>new3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\new3.xnb</Output>
+      <Time>2008-05-09T15:38:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Thingy8.bmp</Source>
+      <Name>Thingy8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy8.xnb</Output>
+      <Time>2008-05-09T15:42:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Thingy9.bmp</Source>
+      <Name>Thingy9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy9.xnb</Output>
+      <Time>2008-05-09T15:45:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Thingy10.bmp</Source>
+      <Name>Thingy10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy10.xnb</Output>
+      <Time>2008-05-09T15:48:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Thingy11.bmp</Source>
+      <Name>Thingy11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Thingy11.xnb</Output>
+      <Time>2008-05-09T15:49:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Credits.png</Source>
+      <Name>Credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Credits.xnb</Output>
+      <Time>2008-05-09T16:04:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screen.png</Source>
+      <Name>Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Screen.xnb</Output>
+      <Time>2008-05-09T16:12:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screen2.bmp</Source>
+      <Name>Screen2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Screen2.xnb</Output>
+      <Time>2008-05-09T16:29:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>creditz.bmp</Source>
+      <Name>creditz</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\creditz.xnb</Output>
+      <Time>2008-05-09T17:23:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>lost.png</Source>
+      <Name>lost</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\lost.xnb</Output>
+      <Time>2008-05-09T17:40:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Win.png</Source>
+      <Name>Win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Win.xnb</Output>
+      <Time>2008-05-09T17:39:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Settings.png</Source>
+      <Name>Settings</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Settings.xnb</Output>
+      <Time>2008-05-09T17:48:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu.spritefont</Source>
+      <Name>Menu</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\Menu.xnb</Output>
+      <Time>2008-05-07T19:28:00-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Zune</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\Content\obj\Zune\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\bin\Zune\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-04-20T18:10:05.0425076-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

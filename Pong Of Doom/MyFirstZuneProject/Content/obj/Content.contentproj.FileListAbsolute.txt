@@ -1,0 +1,3 @@
+C:\Documents and Settings\Owner\Desktop\pong\MyFirstZuneProject\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\Pong Of Doom\MyFirstZuneProject\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\_Github\Zune\Pong Of Doom\MyFirstZuneProject\Content\obj\Zune\Debug\ResolveAssemblyReference.cache

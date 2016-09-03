@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacman", "ZuneGame1\Pacman.csproj", "{B7BAD0D6-18E0-4DBC-A558-282B1AB0F1AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Zune = Debug|Zune
+		Release|Zune = Release|Zune
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7BAD0D6-18E0-4DBC-A558-282B1AB0F1AC}.Debug|Zune.ActiveCfg = Debug|Zune
+		{B7BAD0D6-18E0-4DBC-A558-282B1AB0F1AC}.Debug|Zune.Build.0 = Debug|Zune
+		{B7BAD0D6-18E0-4DBC-A558-282B1AB0F1AC}.Debug|Zune.Deploy.0 = Debug|Zune
+		{B7BAD0D6-18E0-4DBC-A558-282B1AB0F1AC}.Release|Zune.ActiveCfg = Release|Zune
+		{B7BAD0D6-18E0-4DBC-A558-282B1AB0F1AC}.Release|Zune.Build.0 = Release|Zune
+		{B7BAD0D6-18E0-4DBC-A558-282B1AB0F1AC}.Release|Zune.Deploy.0 = Release|Zune
+		{02AB1350-BF0C-409D-8C5E-92A031541B54}.Debug|Zune.ActiveCfg = Debug|Zune
+		{02AB1350-BF0C-409D-8C5E-92A031541B54}.Release|Zune.ActiveCfg = Release|Zune
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
